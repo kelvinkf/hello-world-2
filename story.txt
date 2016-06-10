@@ -5,3 +5,6 @@ this is line 2
 Editing in SVN
 
 Editing story.txt in GitHub
+
+edit in svn again
+
